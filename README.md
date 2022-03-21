@@ -1,5 +1,6 @@
 # PySEASHomeMount
-Mount UPenn SEAS home directory by Python 
+Mount UPenn SEAS home directory by Python
+
 Useful to mount the SEAS home dir in library PCs (e.g. public computers in Van Pelt library)
 
 Code is super simple:
